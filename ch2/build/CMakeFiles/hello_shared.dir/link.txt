@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -dynamiclib -Wl,-headerpad_max_install_names -o libhello_shared.dylib -install_name @rpath/libhello_shared.dylib CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o 

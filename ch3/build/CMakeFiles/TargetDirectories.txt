@@ -1,0 +1,3 @@
+/Users/kai/code/slam/ch3/build/CMakeFiles/eigenMatrix.dir
+/Users/kai/code/slam/ch3/build/CMakeFiles/edit_cache.dir
+/Users/kai/code/slam/ch3/build/CMakeFiles/rebuild_cache.dir

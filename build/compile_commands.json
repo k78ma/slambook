@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/kai/code/slam/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/helloSLAM.dir/helloSLAM.cpp.o -c /Users/kai/code/slam/ch2/helloSLAM.cpp",
+  "file": "/Users/kai/code/slam/ch2/helloSLAM.cpp",
+  "output": "CMakeFiles/helloSLAM.dir/helloSLAM.cpp.o"
+},
+{
+  "directory": "/Users/kai/code/slam/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/hello.dir/libHelloSLAM.cpp.o -c /Users/kai/code/slam/ch2/libHelloSLAM.cpp",
+  "file": "/Users/kai/code/slam/ch2/libHelloSLAM.cpp",
+  "output": "CMakeFiles/hello.dir/libHelloSLAM.cpp.o"
+},
+{
+  "directory": "/Users/kai/code/slam/build",
+  "command": "/usr/bin/clang++ -Dhello_shared_EXPORTS  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fPIC -o CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o -c /Users/kai/code/slam/ch2/libHelloSLAM.cpp",
+  "file": "/Users/kai/code/slam/ch2/libHelloSLAM.cpp",
+  "output": "CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o"
+},
+{
+  "directory": "/Users/kai/code/slam/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/useHello.dir/useHello.cpp.o -c /Users/kai/code/slam/ch2/useHello.cpp",
+  "file": "/Users/kai/code/slam/ch2/useHello.cpp",
+  "output": "CMakeFiles/useHello.dir/useHello.cpp.o"
+}
+]
